@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+
+  margin-bottom: 16px;
+}
+
+// .header {
+//     width: 70%;
+//     min-height: 800px;
+//     background-color: rgb(38, 85, 81);
+//     margin: 0 auto;
+
+//     .box {
+//         width: 50%;
+//         height: 200px;
+//         background-color: plum;
+//         margin: 0 auto;
+//     }
+
+//     .media-box {
+//         width: 350px;
+//         height: 100px;
+//         background-color: brown;
+//         margin: 0 auto;
+//     }
+// }
+
+// @media screen and (max-width: 700px) and (min-width: 350px) {
+//     .header {
+//         background-color: purple;
+//     }
+// }
+
+// @media all and (max-width: 600px) {
+//     .header {
+//         background-color: tan;
+
+//         .media-box {
+//             width: 175px;
+//         }
+//     }
+// }
+
+//flex direction = column 
+
+
